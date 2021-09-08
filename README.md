@@ -12,4 +12,4 @@ A simple social media application with users, posts, likes and comments - develo
 ![](https://github.com/adityaviki/companion/blob/main/screenshots/userhomepage.png)
 
 ## User Profile Page
-![](https://github.com/adityaviki/companion/blob/main/screenshots/profile.png)
+![](https://github.com/adityaviki/companion/blob/main/screenshots/profilepage.png)
