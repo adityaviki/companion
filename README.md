@@ -8,6 +8,8 @@ A simple social media application with users, posts, likes and comments - develo
    - To run the application for development, run ```  npm run development  ``` or ``` yarn development ```
 4. Open [localhost:3000](http://localhost:3000/) in the browser
 
+## React Components
+![](https://github.com/adityaviki/companion/blob/main/screenshots/react_components.png)
 ## User Home Page
 ![](https://github.com/adityaviki/companion/blob/main/screenshots/userhomepage.png)
 
